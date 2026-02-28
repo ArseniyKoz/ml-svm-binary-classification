@@ -20,7 +20,7 @@ Pet-проект с обучением SVM, подбором гиперпара�
 
 ## Как запустить
 
-`ash
+```bash
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
@@ -43,4 +43,5 @@ jupyter notebook practice_5.ipynb
 ## Автор
 
 Арсений Козлов - [github.com/ArseniyKoz](https://github.com/ArseniyKoz)
+
 
